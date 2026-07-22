@@ -7,29 +7,75 @@
 
 ---
 
+<table>
+<tr>
+<td>
+
+```
+---===========++++++++++++++++++++++++++*#
+-===========++++++++************++++++++*%
+===========+++++++=======+**********++++*%
+=========+++++++-:...     .-+**********+#%
+========++++++-......       .+**********#@
+=======++++++=:.-+++=---::.  .+**********%
+=======+++++++::*#*+++=-:::.  +**********%
+======++++++++-=#+-::+=....:.-**********#%
+======++++++++++##*++#+::::::=**********#%
+======++++++++*+###+**+::---:+**********#%
+=====+++++++++*=+*=:=-:..:-:-***********#%
+=====+++++++++*+:=++*+=::..-************#%
+=====++++++++++=+::+=:... :+************%@
+=====+++===-.-==#+-::....:...-==+*******%@
+======--:::..-=-+%====-::+.     ..:=+***%%
+=====::::::..:---%#=---:++    ......:***#%
+===---::..:..::::=*#*::=+:  . .......=*+*#
+. -=-::::..:.:::::*#%*+*=........... -*+*#
+  ==-:.... .:.:.::=###**=.....: ......++*#
+ :=--:.. ...::....:*#*##-..:...   ....-+*#
+ :=--::.  . .:.....+*###:.::...   .....=##
+ ---::..   ........=*##*:.:. ..   ......*%
+.=--::...   ... .. -+*#+...      .......-%
+.=-::...           :+*#-....:.....:......+
+.=-::...         ..:--*#*=-----::....... :
+.--::......:..:..:::..-#%*----:......... .
+ -:..........:..:......+*+. ...........-. 
+ ::.:..................:.   ............  
 ```
 
+</td>
+<td>
+
+```
 kunal@rathore
 -------------
-OS: ..................... Mumbai, Maharashtra, India (Linux Mint / Windows dual-boot)
-Host: .................... KLE Society of Science & Commerce College, Mumbai University
-Kernel: .................. B.Sc. Information Technology (2022 - 2025), CGPA 8.0+
+OS: ..................... Mumbai, Maharashtra, India
+Host: .................... KLE Society of Science & Commerce
+                            College, Mumbai University
+Kernel: .................. B.Sc. Information Technology
+                            (2022 - 2025), CGPA 8.0+
 IDE: ..................... VS Code, Jupyter Notebook, PyCharm
 
 Languages.Programming: ... Python, SQL, C++, PHP
 Languages.Frameworks: .... Flask, FastAPI, Django, Streamlit
-Languages.ML/AI: ......... Scikit-Learn, XGBoost, Prophet, Isolation Forest, NLP, LLMs
-Languages.Data: .......... Pandas, Plotly, Matplotlib, Seaborn, MySQL, PostgreSQL
+Languages.ML/AI: ......... Scikit-Learn, XGBoost, Prophet,
+                            Isolation Forest, NLP, LLMs
+Languages.Data: .......... Pandas, Plotly, Matplotlib,
+                            Seaborn, MySQL, PostgreSQL
 
-Focus.Current: ........... Predictive Modeling, Time-Series Forecasting, Anomaly Detection
-Focus.Exploring: ......... Generative AI & Large Language Models (LLMs)
+Focus.Current: ........... Predictive Modeling, Time-Series
+                            Forecasting, Anomaly Detection
+Focus.Exploring: ......... Generative AI & Large Language
+                            Models (LLMs)
 
 Contact.Email: ........... kunalkrathore2005@gmail.com
 Contact.Phone: ........... +91 8369549487
 Contact.LinkedIn: ........ linkedin.com/in/kunal-rathore78
 Contact.GitHub: .......... github.com/Kunalrathore2005
-
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
