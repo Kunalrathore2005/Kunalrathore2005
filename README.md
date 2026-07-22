@@ -49,14 +49,7 @@
 <td>
 
 ```
-kunal@rathore
--------------
-OS: ..................... Mumbai, Maharashtra, India
-Host: .................... KLE Society of Science & Commerce
-                            College, Mumbai University
-Kernel: .................. B.Sc. Information Technology
-                            (2022 - 2025), CGPA 8.0+
-IDE: ..................... VS Code, Jupyter Notebook, PyCharm
+Kunal Rathore ______________________________________________________
 
 Languages.Programming: ... Python, SQL, C++, PHP
 Languages.Frameworks: .... Flask, FastAPI, Django, Streamlit
